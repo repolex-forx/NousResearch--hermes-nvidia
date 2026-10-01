@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-nvidia/commit/e35b7429532c3e3fb7b4d9fea9c18e2c14740afa",
       "git:hexsha": "e35b7429532c3e3fb7b4d9fea9c18e2c14740afa",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
