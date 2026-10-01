@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-nvidia",
+  "versions": [
+    {
+      "commit": "e35b7429532c3e3fb7b4d9fea9c18e2c14740afa",
+      "tag": "main",
+      "parsed_at": "2026-10-01T06:37:29.119306+00:00"
+    }
+  ]
+}
