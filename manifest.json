@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-nvidia",
+  "versions": [
+    {
+      "commit": "e35b7429532c3e3fb7b4d9fea9c18e2c14740afa",
+      "parsed_at": "2026-10-01T06:18:49.491161+00:00",
+      "tag": "main",
+      "filetree": "filetree/e35b7429532c3e3fb7b4d9fea9c18e2c14740afa.nq.gz",
+      "blobs": [
+        "blob/0cde0fa3ecd38ea6aea6735277f08483d76f0b43.nq.gz",
+        "blob/649ddf78924f0c4f236dd3cf1b0a8631ba8b8b0b.nq.gz",
+        "blob/f055a535c0a266b45004dcf478978456b4b7b050.nq.gz",
+        "blob/176c19de13ccff21d905735da957afb191e24ffd.nq.gz",
+        "blob/f7a83e9d8b97055ceb6e3f09ad083b2a25ff115a.nq.gz",
+        "blob/f5b24ec25c6a4493accfddc491b36577609edc69.nq.gz",
+        "blob/2b0b2ef86f24dec989cdd94324b97bada03b4522.nq.gz",
+        "blob/e1b4150ef71493a0b6d775b35f5f0678a6214dca.nq.gz",
+        "blob/95c5afccb3d96d75b7f38c7fcb14813697181779.nq.gz",
+        "blob/0bdf659c9460b1101914552be810d95963b1b6fd.nq.gz",
+        "blob/3bc2ebc2fcccbf94c4e9457f7ea26044c6f5c1cc.nq.gz",
+        "blob/32ef1a809f6d0c8e1f3c27d6687446d2d413b23d.nq.gz",
+        "blob/b3a4a6b159a11a585ca87b213e2bb60abbf300fb.nq.gz",
+        "blob/d07d1eff9dfad578d2eab76b0e897ac7d30bc24a.nq.gz",
+        "blob/22ec929aaed16166b31c1980dfe478a785f85031.nq.gz",
+        "blob/a975f509286590935f0338069ec5d5c8adfbe3fe.nq.gz",
+        "blob/20ed93fbcd49398ab5cd3514323d04fc198ab43f.nq.gz",
+        "blob/25db2d730ad6fc21ae01c73f878edb586580e111.nq.gz",
+        "blob/bbb249f42944d6b4e53372b22a33041febc774e9.nq.gz",
+        "blob/e9e39697cf0da06fa1b8a312ae3c78de94748e02.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
