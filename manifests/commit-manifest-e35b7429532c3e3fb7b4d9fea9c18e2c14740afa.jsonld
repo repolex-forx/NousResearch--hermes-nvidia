@@ -56,8 +56,8 @@
       "repolex:graphFileSize": 69
     }
   ],
-  "repolex:parseStatus": "enrich_complete",
-  "repolex:parsedAt": "2026-10-02T10:47:31.993884+00:00",
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-10-02T10:51:30.453534+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "main"
 }
